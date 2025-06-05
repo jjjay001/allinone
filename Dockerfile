@@ -1,6 +1,7 @@
 FROM youshandefeiyang/allinone
 
 CMD [
+  "./allinone",
   "-tv=false",
   "-aesKey=0fuujak5sjhteacbyqphyxuuuflxyedj",
   "-userid=5341928469",
